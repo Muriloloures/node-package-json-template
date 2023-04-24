@@ -17,7 +17,7 @@ Get all products 1: retorna todos os produtos disponíveis na plataforma.
 Get all products 2 (search product by name): retorna todos os produtos que correspondem ao nome do produto especificado.
 Create Purchase: permite criar uma nova compra de um ou mais produtos.
 Get Purchase by id: retorna informações sobre uma compra existente com base no ID da compra especificada.
-A documentação completa pode ser encontrada neste link: https://documenter.getpostman.com/view/26335727/2s93Y5Pf2Q
+A documentação completa pode ser encontrada neste link: https://documenter.getpostman.com/view/26455784/2s93Y5R1BM
 
 ## Tecnologias utilizadas:
 
@@ -37,4 +37,3 @@ Digite o comando npm init -y. Isso criará um arquivo package.json padrão na pa
 Instale o Express e SQLite utilizando o comando npm install express sqlite3 @types/express @types/sqlite3.
 Instale o Knex utilizando o comando npm install knex @types/knex sqlite3.
 Crie um arquivo knexfile.js na raiz do projeto com as configurações do banco de dados. Em seguida, crie um arquivo database.ts na pasta src com as configurações do Knex para acessar o banco de dados.
-Faça o download e instale o Postman em https://documenter.getpostman.com/view/26455784/2s93Y5R1BM
